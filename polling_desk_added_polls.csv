@@ -1,0 +1,171 @@
+poll_id,poll_type,subject,pollster,start_date,end_date,sample_size,population,sponsors,internal,choice,pct,source_url
+us-202inscc9ea016,us-senator,2026 Georgia,InsiderAdvantage,2026-10-31,2026-11-02,2500.0,lv,,False,Jon Ossoff,53.0,https://jamesmagazinega.com/2026/11/02/48131/
+us-202inscc9ea016,us-senator,2026 Georgia,InsiderAdvantage,2026-10-31,2026-11-02,2500.0,lv,,False,Mike Collins,46.0,https://jamesmagazinega.com/2026/11/02/48131/
+nyt-504802b0aa91,us-senator,2026 Michigan,John Zogby Strategies,2026-10-31,2026-11-02,1001.0,lv,,False,Abdul El-Sayed,51.0,https://johnzogbystrategies.com/el-sayed-leads-rogers-51-49-new-john-zogby-strategies-eve-of-election-day-poll/
+nyt-504802b0aa91,us-senator,2026 Michigan,John Zogby Strategies,2026-10-31,2026-11-02,1001.0,lv,,False,Mike Rogers,49.0,https://johnzogbystrategies.com/el-sayed-leads-rogers-51-49-new-john-zogby-strategies-eve-of-election-day-poll/
+nyt-a270938eabb9,us-senator,2026 Florida,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Ashley Moody,51.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-a270938eabb9,us-senator,2026 Florida,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Angie Nixon,44.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-a270938eabb9,us-senator,2026 Florida,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Neil Gillespie,1.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-783308c6c56c,us-senator,2026 Colorado,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,John Hickenlooper,57.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-783308c6c56c,us-senator,2026 Colorado,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Mark Baisley,35.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-3f9659ed6820,us-senator,2026 Texas,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,James Talarico,49.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-3f9659ed6820,us-senator,2026 Texas,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Ken Paxton,46.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-3f9659ed6820,us-senator,2026 Texas,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Ted Brown,1.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-78e1d658fb3f,us-senator,2026 New Mexico,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Ben Ray Luján,56.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-78e1d658fb3f,us-senator,2026 New Mexico,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Larry Marker,37.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-d304d6314a5c,us-senator,2026 Illinois,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Juliana Stratton,53.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-d304d6314a5c,us-senator,2026 Illinois,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Don Tracy,41.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-033a5b61e458,us-senator,2026 Georgia,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Jon Ossoff,52.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-033a5b61e458,us-senator,2026 Georgia,Research Co.,2026-10-31,2026-11-02,450.0,lv,,False,Mike Collins,42.0,https://researchco.ca/2026/11/02/midterms-2026-two/
+nyt-e7d2e7c4983a,us-senator,2026 Tennessee,Targoz Market Research,2025-10-24,2026-11-02,716.0,lv,,False,Bill Hagerty,57.0,https://www.targoz.com/market-matters-blog/2026/11/2/tennessee-poll-blackburn-leads-green-by-19-points-hagerty-leads-bradshaw-by-20-points
+nyt-e7d2e7c4983a,us-senator,2026 Tennessee,Targoz Market Research,2025-10-24,2026-11-02,716.0,lv,,False,Marquita Bradshaw,37.0,https://www.targoz.com/market-matters-blog/2026/11/2/tennessee-poll-blackburn-leads-green-by-19-points-hagerty-leads-bradshaw-by-20-points
+nyt-472fcc31b9fe,us-senator,2026 Ohio,AtlasIntel,2026-10-28,2026-11-01,1801.0,lv,,False,Sherrod Brown,51.4,https://pollstergraph.com/poll/exclusive-atlas-us-oh-20261101-governor
+nyt-472fcc31b9fe,us-senator,2026 Ohio,AtlasIntel,2026-10-28,2026-11-01,1801.0,lv,,False,Jon Husted,43.9,https://pollstergraph.com/poll/exclusive-atlas-us-oh-20261101-governor
+us-202atl4ff5863b,us-senator,2026 Minnesota,AtlasIntel,2026-10-28,2026-11-01,2133.0,lv,,False,Peggy Flanagan,48.0,https://pollstergraph.com/poll/exclusive-atlas-us-mn-20261101-senate
+us-202atl4ff5863b,us-senator,2026 Minnesota,AtlasIntel,2026-10-28,2026-11-01,2133.0,lv,,False,Michele Tafoya,46.0,https://pollstergraph.com/poll/exclusive-atlas-us-mn-20261101-senate
+us-202atl4b2e3acd,us-senator,2026 North Carolina,AtlasIntel,2026-10-28,2026-11-01,1459.0,lv,,False,Roy Cooper,56.4,https://pollstergraph.com/poll/exclusive-atlas-us-nc-20261101-senate
+us-202atl4b2e3acd,us-senator,2026 North Carolina,AtlasIntel,2026-10-28,2026-11-01,1459.0,lv,,False,Michael Whatley,41.5,https://pollstergraph.com/poll/exclusive-atlas-us-nc-20261101-senate
+nyt-54abcdcce816,us-senator,2026 Iowa,AtlasIntel,2026-10-28,2026-11-01,1219.0,lv,,False,Josh Turek,50.5,https://pollstergraph.com/poll/exclusive-atlas-us-ia-20261101-governor
+nyt-54abcdcce816,us-senator,2026 Iowa,AtlasIntel,2026-10-28,2026-11-01,1219.0,lv,,False,Ashley Hinson,46.4,https://pollstergraph.com/poll/exclusive-atlas-us-ia-20261101-governor
+nyt-317ec8a4349d,us-senator,2026 Alaska,AtlasIntel,2026-10-28,2026-11-01,522.0,lv,,False,Mary Peltola,50.1,https://pollstergraph.com/poll/exclusive-atlas-us-ak-20261101-house
+nyt-317ec8a4349d,us-senator,2026 Alaska,AtlasIntel,2026-10-28,2026-11-01,522.0,lv,,False,Dan Sullivan,44.6,https://pollstergraph.com/poll/exclusive-atlas-us-ak-20261101-house
+nyt-317ec8a4349d,us-senator,2026 Alaska,AtlasIntel,2026-10-28,2026-11-01,522.0,lv,,False,Gerald Heikes,2.5,https://pollstergraph.com/poll/exclusive-atlas-us-ak-20261101-house
+nyt-317ec8a4349d,us-senator,2026 Alaska,AtlasIntel,2026-10-28,2026-11-01,522.0,lv,,False,Dan J. Sullivan,0.6,https://pollstergraph.com/poll/exclusive-atlas-us-ak-20261101-house
+nyt-5600c0a981ff,us-senator,2026 Michigan,AtlasIntel,2026-10-28,2026-11-01,1316.0,lv,,False,Abdul El-Sayed,53.5,https://pollstergraph.com/poll/exclusive-atlas-us-mi-20261101-senate
+nyt-5600c0a981ff,us-senator,2026 Michigan,AtlasIntel,2026-10-28,2026-11-01,1316.0,lv,,False,Mike Rogers,46.4,https://pollstergraph.com/poll/exclusive-atlas-us-mi-20261101-senate
+nyt-c3f2e62bffec,us-senator,2026 Kansas,AtlasIntel,2026-10-28,2026-11-01,2038.0,lv,,False,Adam Hamilton,51.9,https://pollstergraph.com/poll/exclusive-atlas-us-ks-20261101-senate
+nyt-c3f2e62bffec,us-senator,2026 Kansas,AtlasIntel,2026-10-28,2026-11-01,2038.0,lv,,False,Roger Marshall,44.9,https://pollstergraph.com/poll/exclusive-atlas-us-ks-20261101-senate
+nyt-4f0030dcccb8,us-senator,2026 Maine,AtlasIntel,2026-10-28,2026-11-01,967.0,lv,,False,Troy Jackson,53.1,https://pollstergraph.com/poll/exclusive-atlas-us-me-20261101-governor
+nyt-4f0030dcccb8,us-senator,2026 Maine,AtlasIntel,2026-10-28,2026-11-01,967.0,lv,,False,Susan Collins,44.0,https://pollstergraph.com/poll/exclusive-atlas-us-me-20261101-governor
+nyt-7f4b28ef6a95,us-senator,2026 New Hampshire,AtlasIntel,2026-10-28,2026-11-01,1057.0,lv,,False,Chris Pappas,52.3,https://pollstergraph.com/poll/exclusive-atlas-us-nh-20261101-governor
+nyt-7f4b28ef6a95,us-senator,2026 New Hampshire,AtlasIntel,2026-10-28,2026-11-01,1057.0,lv,,False,John Sununu,44.2,https://pollstergraph.com/poll/exclusive-atlas-us-nh-20261101-governor
+nyt-da2b3fddbd8c,us-senator,2026 Michigan,Concord Public Opinion Partners,2026-10-30,2026-11-01,510.0,lv,Education Reform Now Advocacy,False,Abdul El-Sayed,51.0,https://concordpublicopinionpartners.org/blog/michigan-ge-2026
+nyt-da2b3fddbd8c,us-senator,2026 Michigan,Concord Public Opinion Partners,2026-10-30,2026-11-01,510.0,lv,Education Reform Now Advocacy,False,Mike Rogers,41.0,https://concordpublicopinionpartners.org/blog/michigan-ge-2026
+nyt-a0f410c071df,us-senator,2026 Michigan,Emerson College,2026-11-01,2026-11-01,500.0,lv,Poll Vault,False,Abdul El-Sayed,51.2,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-a0f410c071df,us-senator,2026 Michigan,Emerson College,2026-11-01,2026-11-01,500.0,lv,Poll Vault,False,Mike Rogers,45.2,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-a0f410c071df,us-senator,2026 Michigan,Emerson College,2026-11-01,2026-11-01,500.0,lv,Poll Vault,False,Lydia Christensen,3.2,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-a0f410c071df,us-senator,2026 Michigan,Emerson College,2026-11-01,2026-11-01,500.0,lv,Poll Vault,False,Walter Kristy,0.4,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-a0f410c071df,us-senator,2026 Michigan,Emerson College,2026-11-01,2026-11-01,500.0,lv,Poll Vault,False,Douglas Marsh,0.1,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-3336610ff799,us-senator,2026 Texas,Emerson College,2026-10-31,2026-11-01,500.0,lv,Poll Vault,False,James Talarico,49.8,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-3336610ff799,us-senator,2026 Texas,Emerson College,2026-10-31,2026-11-01,500.0,lv,Poll Vault,False,Ken Paxton,48.4,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-3336610ff799,us-senator,2026 Texas,Emerson College,2026-10-31,2026-11-01,500.0,lv,Poll Vault,False,Ted Brown,1.8,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-ea6bdc7b82ab,us-senator,2026 Maine,Emerson College,2026-10-31,2026-11-01,600.0,lv,Poll Vault,False,Susan Collins,50.6,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-ea6bdc7b82ab,us-senator,2026 Maine,Emerson College,2026-10-31,2026-11-01,600.0,lv,Poll Vault,False,Troy Jackson,49.4,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-c0e6266d8671,us-senator,2026 Ohio,Emerson College,2026-10-31,2026-11-01,930.0,lv,Poll Vault,False,Jon Husted,48.3,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-c0e6266d8671,us-senator,2026 Ohio,Emerson College,2026-10-31,2026-11-01,930.0,lv,Poll Vault,False,Sherrod Brown,45.8,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-c0e6266d8671,us-senator,2026 Ohio,Emerson College,2026-10-31,2026-11-01,930.0,lv,Poll Vault,False,Bill Redpath,3.6,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-c0e6266d8671,us-senator,2026 Ohio,Emerson College,2026-10-31,2026-11-01,930.0,lv,Poll Vault,False,Gregory Levy,2.3,https://pollvault.substack.com/p/new-poll-vault-emerson-senate-and
+nyt-ed1bc7226e91,us-senator,2026 Nebraska,GrayHouse,2026-10-29,2026-11-01,534.0,lv,,False,Pete Ricketts,50.0,https://www.grayhouse.com/post/grayhouse-poll-ricketts-leads-in-nebraska-by-4
+nyt-ed1bc7226e91,us-senator,2026 Nebraska,GrayHouse,2026-10-29,2026-11-01,534.0,lv,,False,Dan Osborn,46.0,https://www.grayhouse.com/post/grayhouse-poll-ricketts-leads-in-nebraska-by-4
+nyt-ed1bc7226e91,us-senator,2026 Nebraska,GrayHouse,2026-10-29,2026-11-01,534.0,lv,,False,Chuck Conboy,1.0,https://www.grayhouse.com/post/grayhouse-poll-ricketts-leads-in-nebraska-by-4
+nyt-ed1bc7226e91,us-senator,2026 Nebraska,GrayHouse,2026-10-29,2026-11-01,534.0,lv,,False,Robin Richards,1.0,https://www.grayhouse.com/post/grayhouse-poll-ricketts-leads-in-nebraska-by-4
+nyt-ed1bc7226e91,us-senator,2026 Nebraska,GrayHouse,2026-10-29,2026-11-01,534.0,lv,,False,Mike Marvin,1.0,https://www.grayhouse.com/post/grayhouse-poll-ricketts-leads-in-nebraska-by-4
+nyt-fc48c153944c,us-senator,2026 Alaska,InsiderAdvantage,2026-10-31,2026-11-01,1200.0,lv,,False,Mary Peltola,48.3,https://insideradvantage.com/insideradvantage-final-alaska-survey-race-tied-in-first-round-48-peltola-48-sullivan-tied-in-ranked-choice-round/
+nyt-fc48c153944c,us-senator,2026 Alaska,InsiderAdvantage,2026-10-31,2026-11-01,1200.0,lv,,False,Dan Sullivan,48.1,https://insideradvantage.com/insideradvantage-final-alaska-survey-race-tied-in-first-round-48-peltola-48-sullivan-tied-in-ranked-choice-round/
+nyt-fc48c153944c,us-senator,2026 Alaska,InsiderAdvantage,2026-10-31,2026-11-01,1200.0,lv,,False,Dan J. Sullivan,2.0,https://insideradvantage.com/insideradvantage-final-alaska-survey-race-tied-in-first-round-48-peltola-48-sullivan-tied-in-ranked-choice-round/
+nyt-fc48c153944c,us-senator,2026 Alaska,InsiderAdvantage,2026-10-31,2026-11-01,1200.0,lv,,False,Gerald Heikes,0.5,https://insideradvantage.com/insideradvantage-final-alaska-survey-race-tied-in-first-round-48-peltola-48-sullivan-tied-in-ranked-choice-round/
+nyt-ef5073348ee2,us-senator,2026 Ohio,Research Co.,2026-10-30,2026-11-01,450.0,lv,,False,Sherrod Brown,45.0,https://researchco.ca/2026/11/01/midterms-2026-one/
+nyt-ef5073348ee2,us-senator,2026 Ohio,Research Co.,2026-10-30,2026-11-01,450.0,lv,,False,Jon Husted,44.0,https://researchco.ca/2026/11/01/midterms-2026-one/
+nyt-eca95658eefd,us-senator,2026 Minnesota,Research Co.,2026-10-30,2026-11-01,450.0,lv,,False,Peggy Flanagan,48.0,https://researchco.ca/2026/11/01/midterms-2026-one/
+nyt-eca95658eefd,us-senator,2026 Minnesota,Research Co.,2026-10-30,2026-11-01,450.0,lv,,False,Michele Tafoya,43.0,https://researchco.ca/2026/11/01/midterms-2026-one/
+nyt-ffba3c9fa392,us-senator,2026 Michigan,Research Co.,2026-10-30,2026-11-01,450.0,lv,,False,Abdul El-Sayed,48.0,https://researchco.ca/2026/11/01/midterms-2026-one/
+nyt-ffba3c9fa392,us-senator,2026 Michigan,Research Co.,2026-10-30,2026-11-01,450.0,lv,,False,Mike Rogers,46.0,https://researchco.ca/2026/11/01/midterms-2026-one/
+nyt-c4d85689ceaf,us-senator,2026 Minnesota,Survey 160,2026-10-27,2026-11-01,1365.0,lv,,False,Peggy Flanagan,52.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+nyt-c4d85689ceaf,us-senator,2026 Minnesota,Survey 160,2026-10-27,2026-11-01,1365.0,lv,,False,Michele Tafoya,43.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+us-202surc3904145,us-senator,2026 Kansas,Survey 160,2026-10-27,2026-11-01,1365.0,lv,,False,Roger Marshall,43.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+us-202surc3904145,us-senator,2026 Kansas,Survey 160,2026-10-27,2026-11-01,1365.0,lv,,False,Adam Hamilton,50.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+us-202sur47b76c1c,us-senator,2026 Ohio,Survey 160,2026-10-27,2026-11-01,1122.0,lv,,False,Sherrod Brown,49.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+us-202sur47b76c1c,us-senator,2026 Ohio,Survey 160,2026-10-27,2026-11-01,1122.0,lv,,False,Jon Husted,45.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+us-202surbc39cb26,us-senator,2026 Maine,Survey 160,2026-10-27,2026-11-01,1322.0,lv,,False,Troy Jackson,50.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+us-202surbc39cb26,us-senator,2026 Maine,Survey 160,2026-10-27,2026-11-01,1322.0,lv,,False,Susan Collins,46.0,https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states
+us-202the44d55dc8,us-senator,2026 Iowa,The New York Times/Siena University,2026-10-26,2026-11-01,705.0,lv,,False,Josh Turek,48.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ia-poll-toplines.html
+us-202the44d55dc8,us-senator,2026 Iowa,The New York Times/Siena University,2026-10-26,2026-11-01,705.0,lv,,False,Ashley Hinson,47.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ia-poll-toplines.html
+us-202the0ed14b63,us-senator,2026 Kansas,The New York Times/Siena University,2026-10-27,2026-11-01,736.0,lv,,False,Roger Marshall,44.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ks-poll-toplines.html
+us-202the0ed14b63,us-senator,2026 Kansas,The New York Times/Siena University,2026-10-27,2026-11-01,736.0,lv,,False,Adam Hamilton,49.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ks-poll-toplines.html
+us-202the0ed14b63,us-senator,2026 Kansas,The New York Times/Siena University,2026-10-27,2026-11-01,736.0,lv,,False,David Graham,4.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ks-poll-toplines.html
+us-202the7cccde56,us-senator,2026 Maine,The New York Times/Siena University,2026-10-27,2026-11-01,714.0,lv,,False,Troy Jackson,51.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-me-poll-toplines.html
+us-202the7cccde56,us-senator,2026 Maine,The New York Times/Siena University,2026-10-27,2026-11-01,714.0,lv,,False,Susan Collins,45.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-me-poll-toplines.html
+us-202thef985be3e,us-senator,2026 Michigan,The New York Times/Siena University,2026-10-23,2026-11-01,1011.0,lv,,False,Abdul El-Sayed,53.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-mi-poll-toplines.html
+us-202thef985be3e,us-senator,2026 Michigan,The New York Times/Siena University,2026-10-23,2026-11-01,1011.0,lv,,False,Mike Rogers,42.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-mi-poll-toplines.html
+us-202the28c318b6,us-senator,2026 Ohio,The New York Times/Siena University,2026-10-26,2026-11-01,717.0,lv,,False,Sherrod Brown,49.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-oh-poll-toplines.html
+us-202the28c318b6,us-senator,2026 Ohio,The New York Times/Siena University,2026-10-26,2026-11-01,717.0,lv,,False,Jon Husted,44.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-oh-poll-toplines.html
+us-202thed5a5e7e5,us-senator,2026 Texas,The New York Times/Siena University,2026-10-27,2026-11-01,1215.0,lv,,False,James Talarico,50.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-tx-poll-toplines.html
+us-202thed5a5e7e5,us-senator,2026 Texas,The New York Times/Siena University,2026-10-27,2026-11-01,1215.0,lv,,False,Ken Paxton,43.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-tx-poll-toplines.html
+nyt-19bc3f3f8e83,us-senator,2026 Texas,Trafalgar Group,2026-10-31,2026-11-01,1089.0,lv,,False,Ken Paxton,48.1,https://www.thetrafalgargroup.org/news/tx-senate-gen-1101/
+nyt-19bc3f3f8e83,us-senator,2026 Texas,Trafalgar Group,2026-10-31,2026-11-01,1089.0,lv,,False,James Talarico,47.5,https://www.thetrafalgargroup.org/news/tx-senate-gen-1101/
+nyt-19bc3f3f8e83,us-senator,2026 Texas,Trafalgar Group,2026-10-31,2026-11-01,1089.0,lv,,False,Ted Brown,2.4,https://www.thetrafalgargroup.org/news/tx-senate-gen-1101/
+nyt-f61bbadc9e60,us-senator,2026 Ohio,Trafalgar Group,2026-10-31,2026-11-01,1092.0,lv,,False,Sherrod Brown,46.6,https://www.thetrafalgargroup.org/news/oh-senate-gen-1102/
+nyt-f61bbadc9e60,us-senator,2026 Ohio,Trafalgar Group,2026-10-31,2026-11-01,1092.0,lv,,False,Jon Husted,45.1,https://www.thetrafalgargroup.org/news/oh-senate-gen-1102/
+nyt-f61bbadc9e60,us-senator,2026 Ohio,Trafalgar Group,2026-10-31,2026-11-01,1092.0,lv,,False,Gregory Levy,3.4,https://www.thetrafalgargroup.org/news/oh-senate-gen-1102/
+nyt-f61bbadc9e60,us-senator,2026 Ohio,Trafalgar Group,2026-10-31,2026-11-01,1092.0,lv,,False,Bill Redpath,1.4,https://www.thetrafalgargroup.org/news/oh-senate-gen-1102/
+nyt-70507ef54aba,us-senator,2026 Michigan,Trafalgar Group,2026-10-31,2026-11-01,1087.0,lv,,False,Abdul El-Sayed,47.1,https://www.thetrafalgargroup.org/news/mi-senate-gen-1101/
+nyt-70507ef54aba,us-senator,2026 Michigan,Trafalgar Group,2026-10-31,2026-11-01,1087.0,lv,,False,Mike Rogers,45.9,https://www.thetrafalgargroup.org/news/mi-senate-gen-1101/
+nyt-70507ef54aba,us-senator,2026 Michigan,Trafalgar Group,2026-10-31,2026-11-01,1087.0,lv,,False,Lydia Christensen,1.5,https://www.thetrafalgargroup.org/news/mi-senate-gen-1101/
+nyt-70507ef54aba,us-senator,2026 Michigan,Trafalgar Group,2026-10-31,2026-11-01,1087.0,lv,,False,Timothy Long,0.3,https://www.thetrafalgargroup.org/news/mi-senate-gen-1101/
+nyt-70507ef54aba,us-senator,2026 Michigan,Trafalgar Group,2026-10-31,2026-11-01,1087.0,lv,,False,Douglas Marsh,0.3,https://www.thetrafalgargroup.org/news/mi-senate-gen-1101/
+nyt-aeb2507d8afe,us-senator,2026 South Carolina,Trafalgar Group,2026-10-31,2026-11-01,1091.0,lv,,False,Darline Graham,47.5,https://www.thetrafalgargroup.org/news/sc-senate-general-1102/
+nyt-aeb2507d8afe,us-senator,2026 South Carolina,Trafalgar Group,2026-10-31,2026-11-01,1091.0,lv,,False,Annie Andrews,45.5,https://www.thetrafalgargroup.org/news/sc-senate-general-1102/
+nyt-aeb2507d8afe,us-senator,2026 South Carolina,Trafalgar Group,2026-10-31,2026-11-01,1091.0,lv,,False,Kasie Whitener,1.8,https://www.thetrafalgargroup.org/news/sc-senate-general-1102/
+nyt-aeb2507d8afe,us-senator,2026 South Carolina,Trafalgar Group,2026-10-31,2026-11-01,1091.0,lv,,False,Mark Hackett,1.0,https://www.thetrafalgargroup.org/news/sc-senate-general-1102/
+us-202grada8105a7,us-senator,2026 Iowa,GrayHouse,2026-10-28,2026-10-31,601.0,lv,,False,Ashley Hinson,48.0,https://www.grayhouse.com/post/grayhouse-poll-hinson-leads-in-iowa-by-2
+us-202grada8105a7,us-senator,2026 Iowa,GrayHouse,2026-10-28,2026-10-31,601.0,lv,,False,Josh Turek,46.0,https://www.grayhouse.com/post/grayhouse-poll-hinson-leads-in-iowa-by-2
+us-202grada8105a7,us-senator,2026 Iowa,GrayHouse,2026-10-28,2026-10-31,601.0,lv,,False,Thomas Laehn,2.0,https://www.grayhouse.com/post/grayhouse-poll-hinson-leads-in-iowa-by-2
+nyt-44e797387015,us-senator,2026 Louisiana,Lincoln Park Strategies,2026-10-29,2026-10-31,,lv,Louisiana Democratic Party,False,Julia Letlow,47.0,https://www.instagram.com/p/DfNPHJBIZMH/
+nyt-44e797387015,us-senator,2026 Louisiana,Lincoln Park Strategies,2026-10-29,2026-10-31,,lv,Louisiana Democratic Party,False,Jamie Davis,47.0,https://www.instagram.com/p/DfNPHJBIZMH/
+us-202red57ac6384,us-senator,2026 Florida,RedBox Research,2026-10-30,2026-10-31,2898.0,lv,A Fight Worth Having,False,Ashley Moody,47.0,https://afightworthhaving.com/polling/2026/florida
+us-202red57ac6384,us-senator,2026 Florida,RedBox Research,2026-10-30,2026-10-31,2898.0,lv,A Fight Worth Having,False,Angie Nixon,45.0,https://afightworthhaving.com/polling/2026/florida
+us-202red57ac6384,us-senator,2026 Florida,RedBox Research,2026-10-30,2026-10-31,2898.0,lv,A Fight Worth Having,False,Neil Gillespie,1.0,https://afightworthhaving.com/polling/2026/florida
+us-202unif94885f7,us-senator,2026 Rhode Island,University of New Hampshire,2026-10-27,2026-10-31,753.0,lv,,False,Jack Reed,63.0,https://scholars.unh.edu/survey_center_polls/1015/
+us-202unif94885f7,us-senator,2026 Rhode Island,University of New Hampshire,2026-10-27,2026-10-31,753.0,lv,,False,Raymond McKay,32.0,https://scholars.unh.edu/survey_center_polls/1015/
+us-202unif94885f7,us-senator,2026 Rhode Island,University of New Hampshire,2026-10-27,2026-10-31,753.0,lv,,False,Michael Bahry,3.0,https://scholars.unh.edu/survey_center_polls/1015/
+us-202uni89b3e322,us-senator,2026 Massachusetts,University of New Hampshire,2026-10-27,2026-10-31,905.0,lv,,False,Ed Markey,53.0,https://scholars.unh.edu/survey_center_polls/1014/
+us-202uni89b3e322,us-senator,2026 Massachusetts,University of New Hampshire,2026-10-27,2026-10-31,905.0,lv,,False,John Deaton,32.0,https://scholars.unh.edu/survey_center_polls/1014/
+us-202uni89b3e322,us-senator,2026 Massachusetts,University of New Hampshire,2026-10-27,2026-10-31,905.0,lv,,False,Joe Tache,7.0,https://scholars.unh.edu/survey_center_polls/1014/
+us-202uni89b3e322,us-senator,2026 Massachusetts,University of New Hampshire,2026-10-27,2026-10-31,905.0,lv,,False,Shriya Ayyadurai,4.0,https://scholars.unh.edu/survey_center_polls/1014/
+us-202unidbfe449d,us-senator,2026 Maine,University of New Hampshire,2026-10-27,2026-10-31,1654.0,lv,,False,Troy Jackson,54.0,https://scholars.unh.edu/survey_center_polls/1013/
+us-202unidbfe449d,us-senator,2026 Maine,University of New Hampshire,2026-10-27,2026-10-31,1654.0,lv,,False,Susan Collins,45.0,https://scholars.unh.edu/survey_center_polls/1013/
+us-202uni43b7e03e,us-senator,2026 New Hampshire,University of New Hampshire,2026-10-27,2026-10-31,2040.0,lv,,False,Chris Pappas,54.0,https://scholars.unh.edu/survey_center_polls/1011/
+us-202uni43b7e03e,us-senator,2026 New Hampshire,University of New Hampshire,2026-10-27,2026-10-31,2040.0,lv,,False,John Sununu,42.0,https://scholars.unh.edu/survey_center_polls/1011/
+us-202uni43b7e03e,us-senator,2026 New Hampshire,University of New Hampshire,2026-10-27,2026-10-31,2040.0,lv,,False,Edmond Laplante,2.0,https://scholars.unh.edu/survey_center_polls/1011/
+nyt-8b69c483b3e7,us-senator,2026 Ohio,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Sherrod Brown,48.8,https://insideradvantage.com/final-insideradvantage-ohio-survey-brown-49-husted-47-acton-49-ramaswamy-46/
+nyt-8b69c483b3e7,us-senator,2026 Ohio,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Jon Husted,47.0,https://insideradvantage.com/final-insideradvantage-ohio-survey-brown-49-husted-47-acton-49-ramaswamy-46/
+nyt-8b69c483b3e7,us-senator,2026 Ohio,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Bill Redpath,1.7,https://insideradvantage.com/final-insideradvantage-ohio-survey-brown-49-husted-47-acton-49-ramaswamy-46/
+nyt-8b69c483b3e7,us-senator,2026 Ohio,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Gregory Levy,1.2,https://insideradvantage.com/final-insideradvantage-ohio-survey-brown-49-husted-47-acton-49-ramaswamy-46/
+us-202ins632539b6,us-senator,2026 Minnesota,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Peggy Flanagan,49.0,https://insideradvantage.com/insideradvantage-final-minnesota-senate-survey-flanagan-49-tafoya-46/
+us-202ins632539b6,us-senator,2026 Minnesota,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Michele Tafoya,46.0,https://insideradvantage.com/insideradvantage-final-minnesota-senate-survey-flanagan-49-tafoya-46/
+us-202ins632539b6,us-senator,2026 Minnesota,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Marisa Simonetti,1.0,https://insideradvantage.com/insideradvantage-final-minnesota-senate-survey-flanagan-49-tafoya-46/
+us-202ins632539b6,us-senator,2026 Minnesota,InsiderAdvantage,2026-10-29,2026-10-30,1200.0,lv,,False,Rebecca Whiting,3.0,https://insideradvantage.com/insideradvantage-final-minnesota-senate-survey-flanagan-49-tafoya-46/
+us-202resa74e4477,us-senator,2026 South Carolina,Resonance Media Services,2026-10-30,2026-10-30,600.0,lv,,False,Darline Graham,44.6,https://www.fitsnews.com/wp-content/uploads/securepdfs/2026/11/Resonance-final-SC-Poll-Memo-11-02-2026.pdf
+us-202resa74e4477,us-senator,2026 South Carolina,Resonance Media Services,2026-10-30,2026-10-30,600.0,lv,,False,Annie Andrews,46.2,https://www.fitsnews.com/wp-content/uploads/securepdfs/2026/11/Resonance-final-SC-Poll-Memo-11-02-2026.pdf
+us-202thef222f527,us-senator,2026 Alaska,The New York Times/Siena University,2026-10-23,2026-10-30,610.0,lv,,False,Mary Peltola,48.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ak-poll-toplines.html
+us-202thef222f527,us-senator,2026 Alaska,The New York Times/Siena University,2026-10-23,2026-10-30,610.0,lv,,False,Dan Sullivan,46.0,https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ak-poll-toplines.html
+us-202easda6f3684,us-senator,2026 North Carolina,East Carolina University,2026-10-26,2026-10-29,1041.0,lv,,False,Roy Cooper,54.0,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-leads-whatley-by-9-points-as-election-day-nears
+us-202easda6f3684,us-senator,2026 North Carolina,East Carolina University,2026-10-26,2026-10-29,1041.0,lv,,False,Michael Whatley,45.0,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-leads-whatley-by-9-points-as-election-day-nears
+us-202easda6f3684,us-senator,2026 North Carolina,East Carolina University,2026-10-26,2026-10-29,1041.0,lv,,False,Shannon Bray,1.0,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-leads-whatley-by-9-points-as-election-day-nears
+us-202easda6f3684,us-senator,2026 North Carolina,East Carolina University,2026-10-26,2026-10-29,1041.0,lv,,False,Michael Dublin,0.0,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-leads-whatley-by-9-points-as-election-day-nears
+nyt-56fcf2911f0a,us-senator,2026 Nebraska,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God; Family; & Country PAC,False,Pete Ricketts,48.0,https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_103126.2.pdf
+nyt-56fcf2911f0a,us-senator,2026 Nebraska,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God; Family; & Country PAC,False,Dan Osborn,45.0,https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_103126.2.pdf
+nyt-56fcf2911f0a,us-senator,2026 Nebraska,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God; Family; & Country PAC,False,Mike Marvin,2.0,https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_103126.2.pdf
+nyt-56fcf2911f0a,us-senator,2026 Nebraska,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God; Family; & Country PAC,False,Chuck Conboy,1.0,https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_103126.2.pdf
+nyt-56fcf2911f0a,us-senator,2026 Nebraska,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God; Family; & Country PAC,False,Robin Richards,1.0,https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_103126.2.pdf
+us-202nat3ed474bd,us-senator,2026 New Hampshire,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God Family & Country PAC,False,Chris Pappas,51.0,https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_103126.2.pdf
+us-202nat3ed474bd,us-senator,2026 New Hampshire,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God Family & Country PAC,False,John Sununu,45.0,https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_103126.2.pdf
+us-202nat3ed474bd,us-senator,2026 New Hampshire,National Public Affairs,2026-10-25,2026-10-29,800.0,lv,God Family & Country PAC,False,Edmond Laplante,2.0,https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_103126.2.pdf
+nyt-55e0661d4d74,us-senator,2026 Florida,Targoz Market Research,2026-10-26,2026-10-29,1013.0,lv,,False,Ashley Moody,52.0,https://www.targoz.com/market-matters-blog/2026/11/2/republicans-lead-all-five-florida-statewide-races
+nyt-55e0661d4d74,us-senator,2026 Florida,Targoz Market Research,2026-10-26,2026-10-29,1013.0,lv,,False,Angie Nixon,43.0,https://www.targoz.com/market-matters-blog/2026/11/2/republicans-lead-all-five-florida-statewide-races
+nyt-5f2586f08176,us-senator,2026 Maine,YouGov,2026-10-26,2026-10-29,1501.0,lv,,False,Troy Jackson,52.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20261026_lv.pdf
+nyt-5f2586f08176,us-senator,2026 Maine,YouGov,2026-10-26,2026-10-29,1501.0,lv,,False,Susan Collins,47.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20261026_lv.pdf
+nyt-73e987cbfc42,us-senator,2026 Ohio,YouGov,2026-10-26,2026-10-29,2084.0,lv,,False,Sherrod Brown,50.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20261026_lv.pdf
+nyt-73e987cbfc42,us-senator,2026 Ohio,YouGov,2026-10-26,2026-10-29,2084.0,lv,,False,Jon Husted,48.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20261026_lv.pdf
+nyt-aa86f4bfc1b8,us-senator,2026 Iowa,YouGov,2026-10-26,2026-10-29,2016.0,lv,,False,Josh Turek,50.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261026_lv.pdf
+nyt-aa86f4bfc1b8,us-senator,2026 Iowa,YouGov,2026-10-26,2026-10-29,2016.0,lv,,False,Ashley Hinson,49.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261026_lv.pdf
+nyt-d016d6618632,us-senator,2026 Texas,YouGov,2026-10-26,2026-10-29,2138.0,lv,,False,James Talarico,51.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf
+nyt-d016d6618632,us-senator,2026 Texas,YouGov,2026-10-26,2026-10-29,2138.0,lv,,False,Ken Paxton,47.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf
+nyt-39f254947d0f,us-senator,2026 North Carolina,YouGov,2026-10-26,2026-10-29,2123.0,lv,,False,Roy Cooper,55.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nc_20261026_lv.pdf
+nyt-39f254947d0f,us-senator,2026 North Carolina,YouGov,2026-10-26,2026-10-29,2123.0,lv,,False,Michael Whatley,44.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nc_20261026_lv.pdf
+nyt-e421b0f67413,us-senator,2026 Kansas,YouGov,2026-10-26,2026-10-29,2086.0,lv,,False,Adam Hamilton,50.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf
+nyt-e421b0f67413,us-senator,2026 Kansas,YouGov,2026-10-26,2026-10-29,2086.0,lv,,False,Roger Marshall,49.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf
+nyt-b821022252d0,us-senator,2026 Nebraska,YouGov,2026-10-26,2026-10-29,1974.0,lv,,False,Dan Osborn,49.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20261026_lv.pdf
+nyt-b821022252d0,us-senator,2026 Nebraska,YouGov,2026-10-26,2026-10-29,1974.0,lv,,False,Pete Ricketts,49.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20261026_lv.pdf
+us-202you9af4ba59,us-senator,2026 Michigan,YouGov,2026-10-26,2026-10-29,2093.0,lv,,False,Abdul El-Sayed,51.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf
+us-202you9af4ba59,us-senator,2026 Michigan,YouGov,2026-10-26,2026-10-29,2093.0,lv,,False,Mike Rogers,47.0,https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf

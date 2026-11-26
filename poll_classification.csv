@@ -1,0 +1,726 @@
+poll_id,state,subject,has_D,has_R,poll_class,n_D,n_R,n_other_or_unknown,shape
+nyt-0117d6182177,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-0255ed73f3c8,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-02fa8a25b9de,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-033a5b61e458,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-037233f6ca09,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-045829555a59,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-04fab8814ae7,New Mexico,2026 New Mexico,True,False,unclear,,,,
+nyt-073cd7591e3e,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-073fdbf9aac1,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-09c8ea09f24c,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-0a5d7906093d,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-0a72f863f368,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-0d3daa09e7bb,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-0d9bf48e12eb,South Carolina,2026 South Carolina,False,True,unclear,,,,
+nyt-0e9094f3c196,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-0eafd171d4a7,Kentucky,2026 Kentucky,True,False,unclear,,,,
+nyt-110358db6d7b,Arkansas,2026 Arkansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-11e90678cc37,Texas,2026 Texas,False,True,unclear,,,,
+nyt-122d07597b8c,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-1331fecf181a,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-13976e253245,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-16e318573278,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-176bca4fd635,Texas,2026 Texas,False,True,unclear,,,,
+nyt-17a13242b554,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-17fe2fa45ad6,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-17fe66f72e3f,Iowa,2026 Iowa,True,False,unclear,,,,
+nyt-19a91544467e,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-19bc3f3f8e83,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-1ae176e4a9d6,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-1b3ac6c9d5da,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-1b76bbda0bc3,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-1bad79f2d969,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-1c6ac5d6ca16,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-1cf68580f499,New Mexico,2026 New Mexico,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-1cff486cb7ab,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-1edd9566b1d3,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-1f37507aff06,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-1fc27794922d,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-20d50daf1963,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-21c4fa733584,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-221410a808da,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-24992b526346,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-273726448a8d,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-28e9b56f8e1d,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-2a6d2c206310,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-2a864967234b,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-2b93ddaf6b68,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-2d6f274e9dd6,Massachusetts,2026 Massachusetts,True,False,unclear,,,,
+nyt-2edec6ae2b16,Texas,2026 Texas,False,True,unclear,,,,
+nyt-2f47bcb1b929,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-2f6ce5c3ada7,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-30cc05aea407,Texas,2026 Texas,True,False,unclear,,,,
+nyt-30edd2efbccf,Colorado,2026 Colorado,True,False,unclear,,,,
+nyt-31f0edbd247c,South Carolina,2026 South Carolina,False,True,unclear,,,,
+nyt-327ac98c8157,Iowa,2026 Iowa,True,False,unclear,,,,
+nyt-3336610ff799,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-34c10c560944,Texas,2026 Texas,False,True,unclear,,,,
+nyt-35f20ad0ff2b,Rhode Island,2026 Rhode Island,True,False,unclear,,,,
+nyt-37bec8e514ad,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-3811f61cc411,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-384290feae2a,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-3884e435b23d,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-3888b7312235,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-38a0b440d11e,Iowa,2026 Iowa,False,True,unclear,,,,
+nyt-38a4b87ca227,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-390bc95ec82c,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-39f254947d0f,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-3b9505a36d1c,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-3d0b94ea7d6c,Texas,2026 Texas,True,False,unclear,,,,
+nyt-3f2dce5e023b,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-3f43d8b6465e,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-3f9659ed6820,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-40ac03254b7a,Kansas,2026 Kansas,True,False,unclear,,,,
+nyt-40e4ac55fb73,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-413430d0a3ca,Louisiana,2026 Louisiana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-423441016166,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-42b0fb756d1a,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-42de371a9c11,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-43fc63df2440,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-44e797387015,Louisiana,2026 Louisiana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-458f637a8312,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-46649036e14b,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-466722bdd066,Massachusetts,2026 Massachusetts,True,False,unclear,,,,
+nyt-46b1413df41a,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,3.0,clean 1D-1R
+nyt-472fcc31b9fe,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-47e1cb38f955,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-4b28b40241c7,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-4b53f4ef8626,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-4d3f82da901b,Texas,2026 Texas,False,True,unclear,,,,
+nyt-4e34a9656b54,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-4f0030dcccb8,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-4f177c806e2b,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-4fd7b0a019a1,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-500b8cd442b8,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-504802b0aa91,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-5113f85d1e0a,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-5206793cb77d,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-54abcdcce816,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-55e0661d4d74,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-5600c0a981ff,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-56884a010837,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-56e8c0bfda28,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-5725f07310b8,Texas,2026 Texas,False,True,unclear,,,,
+nyt-57356a412e6d,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-57f2235603e5,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-583ce83669d4,Kansas,2026 Kansas,True,False,unclear,,,,
+nyt-5995240aeeb2,Texas,2026 Texas,False,True,unclear,,,,
+nyt-59cf60b1a58c,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-5de1f24ce5a7,Texas,2026 Texas,False,True,unclear,,,,
+nyt-5f2586f08176,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-5fec3b3ac0bd,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-606c7a4bdcb5,Montana,2026 Montana,False,True,unclear,,,,
+nyt-608fe6620191,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-610a67beaf70,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-616174a805c9,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-620bb981e6e1,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-62701c384082,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-62de8f018ae4,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-63335f5bd190,Iowa,2026 Iowa,True,False,unclear,,,,
+nyt-633772626330,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,3.0,clean 1D-1R
+nyt-63a6816f3e0e,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-66ac6aaea4ce,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-6809bbd45050,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-6855f21cfe0a,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-6addd8e3728e,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-6b64790d96c3,Texas,2026 Texas,False,True,unclear,,,,
+nyt-6b6713119005,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-6bd7f73148bf,Iowa,2026 Iowa,True,False,unclear,,,,
+nyt-6c3b2d178499,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-6c8908564b59,Oklahoma,2026 Oklahoma,False,True,unclear,,,,
+nyt-6d43c35c899b,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-6d621327724c,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-6ddb7a2ecba1,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-6de8db64bc98,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-6e16ccde9412,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-6e8745c468b0,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-6f1070bca5c8,Texas,2026 Texas,False,True,unclear,,,,
+nyt-6f18a170ad0e,Texas,2026 Texas,True,False,unclear,,,,
+nyt-6f9d149aae66,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-70507ef54aba,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,3.0,clean 1D-1R
+nyt-705868ab358c,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-70dc23cd285f,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-71ce818f398c,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-71cf8c0fcf4a,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-729e4db6f501,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-72b41b152102,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-7365be066a8d,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-73c9ff14f83d,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-73e987cbfc42,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-740a0d9ac3a3,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-75e33e1227d4,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-7634c57e3d6b,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-783308c6c56c,Colorado,2026 Colorado,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-78e1d658fb3f,New Mexico,2026 New Mexico,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-791fb93d62a7,Texas,2026 Texas,False,True,unclear,,,,
+nyt-79f27c999983,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-7a17b2fa2a24,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-7a212a6713bd,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-7a23b9360f84,South Carolina,2026 South Carolina,False,True,unclear,,,,
+nyt-7a8bfe848698,Texas,2026 Texas,False,True,unclear,,,,
+nyt-7b09c9d929e2,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-7bc8012ee1f9,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-7bdc90111d76,Kentucky,2026 Kentucky,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-7e63c1b040cf,Michigan,2026 Michigan,False,True,unclear,,,,
+nyt-7f4b28ef6a95,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-7f9be8f3cb63,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-84df5043dc00,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-8721e7fdbc7c,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-876a115bd712,North Carolina,2026 North Carolina,True,False,unclear,,,,
+nyt-87ac2400e23c,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-880cfc5dee18,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-8a774a062b0d,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,2.0,2.0,multi D or R
+nyt-8b69c483b3e7,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-8bdb66e7e6ae,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+nyt-90357aade102,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-9067b3c23e1d,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-912e32e59a40,Illinois,2026 Illinois,False,True,unclear,,,,
+nyt-914ed2a9cac5,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-924346363496,Louisiana,2026 Louisiana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-9294c531336d,Massachusetts,2026 Massachusetts,True,False,unclear,,,,
+nyt-9299e9ad06e6,Minnesota,2026 Minnesota,False,True,unclear,,,,
+nyt-92fa136076b4,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-9414c345bb3d,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-94a8de180ae7,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-95583085d6ea,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-96bbcba85110,North Carolina,2026 North Carolina,False,True,unclear,,,,
+nyt-9767a73965a9,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-97ba6b0e1603,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-97e2ea5f9181,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-986317067ad2,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-9b070d0f4dc3,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-9b880285e053,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-9baf8d674b9c,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-9bd0438e8326,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-9c3dd975579c,Texas,2026 Texas,False,True,unclear,,,,
+nyt-9d7289d9b0f8,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-9dc9d1b0e6e6,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-9dd89934a1ee,Texas,2026 Texas,False,True,unclear,,,,
+nyt-9ebf30c985f7,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-9fcb6db16e35,Minnesota,2026 Minnesota,False,True,unclear,,,,
+nyt-a05f385c2b36,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-a0f410c071df,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,3.0,clean 1D-1R
+nyt-a147a17bf981,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-a270938eabb9,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-a4ab8279b524,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-a4f82f5e91e7,South Carolina,2026 South Carolina,False,True,unclear,,,,
+nyt-a53df36337a8,Iowa,2026 Iowa,True,False,unclear,,,,
+nyt-a5823835cedb,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-a5c9fa151b10,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-a71b288d19b2,Iowa,2026 Iowa,True,False,unclear,,,,
+nyt-a760a92884ed,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-aa86f4bfc1b8,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-ab93ee4a0698,New Hampshire,2026 New Hampshire,True,False,unclear,,,,
+nyt-abb5815e62f7,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-ac23cb0d2f5d,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-ac4028cf2c63,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-ad9943a2c81a,Minnesota,2026 Minnesota,False,True,unclear,,,,
+nyt-aeb2507d8afe,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-aec83dbe96b4,Texas,2026 Texas,False,True,unclear,,,,
+nyt-b1ac3dcd3f93,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-b1cb71802212,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-b1ee65ec83de,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-b305e620dccd,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-b331fa0cb32a,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-b343ff9016a0,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-b4c3aec2997e,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-b52202127367,Maine,2026 Maine,True,False,unclear,,,,
+nyt-b5e9c41e6d83,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-b806b8047ea3,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-ba1a224843dd,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-ba4d21038677,Texas,2026 Texas,True,False,unclear,,,,
+nyt-bbf115bbdafb,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-bcf6d52feea9,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-bd406750445b,South Carolina,2026 South Carolina,False,True,unclear,,,,
+nyt-bd73a305ef7a,Texas,2026 Texas,True,False,unclear,,,,
+nyt-bde313f57d30,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-bec25048e396,Texas,2026 Texas,False,True,unclear,,,,
+nyt-beeec450bdac,South Carolina,2026 South Carolina,False,True,unclear,,,,
+nyt-bfb9e8e3cf0e,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-bfe160de3832,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-c00f00b14795,Maine,2026 Maine,True,False,unclear,,,,
+nyt-c011c8f8592e,South Carolina,2026 South Carolina,True,False,unclear,,,,
+nyt-c08f72fc643b,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-c0e6266d8671,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-c1d439673896,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-c1f1b6692587,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-c3f2e62bffec,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-c4d85689ceaf,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-c51f3bc983e2,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-c5474efb3a79,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-c78602d54191,Texas,2026 Texas,False,True,unclear,,,,
+nyt-c8cf5c2565e6,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-c8fbfe56e29d,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-c9763b93c684,Texas,2026 Texas,True,False,unclear,,,,
+nyt-caf87c3a9f94,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-cb23728ed4b1,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-cdd644973033,Rhode Island,2026 Rhode Island,True,False,unclear,,,,
+nyt-cfa5c520b0da,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-d016d6618632,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-d03c66f0065d,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,3.0,clean 1D-1R
+nyt-d04990956c88,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-d0ec5c01c6f7,Oklahoma,2026 Oklahoma,False,True,unclear,,,,
+nyt-d304d6314a5c,Illinois,2026 Illinois,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-d372a45fd6dd,Maine,2026 Maine,True,False,unclear,,,,
+nyt-d385190c9255,Minnesota,2026 Minnesota,False,True,unclear,,,,
+nyt-d4cae6755395,Arkansas,2026 Arkansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-d4e33758a19e,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-d5c5e5abf44b,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-d668c4813b7e,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-d68436224296,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-d6c25c47d2de,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-d6ee58617dcd,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-d8812ec9e087,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-d983034d4739,Kentucky,2026 Kentucky,True,False,unclear,,,,
+nyt-d994363c9d0e,Massachusetts,2026 Massachusetts,True,False,unclear,,,,
+nyt-da0552913af0,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-da2b3fddbd8c,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-dacd62e7eec6,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-dc0ee85a2e15,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-dd1c3ce585f9,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-dd6f7c22833d,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-de73f2312581,Texas,2026 Texas,False,True,unclear,,,,
+nyt-df129747170f,Massachusetts,2026 Massachusetts,True,False,unclear,,,,
+nyt-df518699ef2b,Minnesota,2026 Minnesota,False,True,unclear,,,,
+nyt-dfef49719994,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,5.0,clean 1D-1R
+nyt-e0733ff5b06d,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-e421b0f67413,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-e42ec107efb4,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-e485d513b7c0,Rhode Island,2026 Rhode Island,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-e63bd071e5d7,Texas,2026 Texas,True,False,unclear,,,,
+nyt-e694dd9f22f7,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-e6daf30d76bb,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-e720a08a21f3,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-e823d2519b88,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-e8541d94089e,Georgia,2026 Georgia,False,True,unclear,,,,
+nyt-e8b036da7d13,Mississippi,2026 Mississippi,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-e9f34af30212,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-ea6bdc7b82ab,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-eb846d9ec835,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-eb8f5ee02b39,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-ebc1d9b0dcd2,Rhode Island,2026 Rhode Island,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-eca95658eefd,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-ed783bbf10f4,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-ed96a505119b,Illinois,2026 Illinois,True,False,unclear,,,,
+nyt-ef5073348ee2,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-ef922f87f3eb,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-efac3ac652e4,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-efb1cc87e595,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-f040e36aef45,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-f04ac3e29c2a,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-f09daefc746d,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-f1171d2ba93c,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-f1c70cb7ceab,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-f2889dc593f1,Louisiana,2026 Louisiana,False,True,unclear,,,,
+nyt-f4e0f9776cf9,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-f5c54ae5454f,Texas,2026 Texas,True,False,unclear,,,,
+nyt-f5d4dd3d2d60,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-f61bbadc9e60,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+nyt-f722966f239f,North Carolina,2026 North Carolina,False,True,unclear,,,,
+nyt-f7abe4e005d1,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-f86964bc49d1,Kentucky,2026 Kentucky,False,True,unclear,,,,
+nyt-f872bfc26920,Colorado,2026 Colorado,True,False,unclear,,,,
+nyt-f91e023afcf5,Alabama,2026 Alabama,False,True,unclear,,,,
+nyt-fa2e0a7ff3ab,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-fab6b53ba079,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-fb292b2e70bb,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-fb4bf34a826d,Minnesota,2026 Minnesota,True,False,unclear,,,,
+nyt-fbb31cc8ffde,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+nyt-fce182916270,Minnesota,2026 Minnesota,False,True,unclear,,,,
+nyt-fd9609cb294a,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-fe7b1252407b,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+nyt-fe8c820158c3,Michigan,2026 Michigan,True,False,unclear,,,,
+nyt-ffba3c9fa392,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202a2 1a5590cb,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202a2 c2344bd1,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202act204154cb,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202act3e915bba,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202act4459517f,Illinois,2026 Illinois,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202act4e413645,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202act5e47e608,Illinois,2026 Illinois,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202acta7d9392c,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202actbd0ac41f,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202actc8c031ff,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202amec1fe2597,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202atl4b2e3acd,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202atl4ff5863b,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202bea00f453c2,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202bea368d4e46,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202bea80ab32e9,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202beaadb6c4f9,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202beab9600d9b,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202beac0286b40,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202big1f625134,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202big7e4bf32f,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202bigbe8a8854,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202bigf2db767c,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202blu72ec478b,Alabama,2026 Alabama,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202blu7974104a,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202bow14c3613e,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202cha0c7666ff,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cha2976f667,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cha683eb5ac,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cha69e5536b,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cha6cfd344c,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cha781abe34,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202chaa0d9b00c,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202chab31a8a6e,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202chad53b9fb6,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202chad8109bd5,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202chae3c0b874,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202chaf0ea6e94,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202checa283b6c,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cnn2b6bf541,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cnn4329221b,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cnn450b1a6b,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cnn473d5c5d,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cnna1713372,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cnnc393624c,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202co/138b0472,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202co/2755fd48,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202co/52c27a2f,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202co/7102b7eb,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202co/b838141c,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202co/bf7a2617,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202co/dc2b4681,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202co/ed81e3f8,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202conf574c6cb,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202cyg0d88fe11,Alabama,2026 Alabama,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202cyg13fa7f0a,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202cyg40c776c5,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202dat084dfba9,Mississippi,2026 Mississippi,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eas168b53d4,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202eas9f073b45,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202easa9c1ac17,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202easda6f3684,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202ech01f06c61,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202ech1a9afcfb,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ech2b342f18,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ech31fe342b,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ech472cd4f1,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ech80c320f6,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ech9490021c,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ech9cca8dca,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202echbc68f468,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202echc0a48602,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202eche7c2869f,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202echf4929c57,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202elo000dcdfc,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202elo069243f3,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202elo857d928d,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202embbacff0bd,Rhode Island,2026 Rhode Island,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202emc72b76be3,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme1adbecdc,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme1bcacacc,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme2172a9a0,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202eme316dd7a3,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme43ceed84,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202eme46470152,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme4923d9f5,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme529afc79,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme5bcac049,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme5bdd236b,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202eme99d02ce6,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202eme9a6a68f5,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202emeae25a0b0,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202emeb0bb9def,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202emeb38cb4ad,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202emeb49a5696,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202emeb507fcbb,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202emeb5d23beb,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202emec4141ca7,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202emec7074b5d,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202emecbd170b2,Illinois,2026 Illinois Republican,False,True,primary_labelled,,,,
+us-202emed67d42c8,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202emee56d4394,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202emee754e4c5,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202epi5f481027,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202epia42401c2,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202epife4108d8,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fab12ee3caf,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fab22efb6bc,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fab389395b2,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fab3ee58419,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fab5fd4622f,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fabb74398c5,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fabc4750dc3,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fabe2bcab70,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202fm3c1e427cb,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202gba62b36025,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gba7596c230,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gbab93d5de3,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gle0133b0b3,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gle2939b758,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gle322439ae,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gle5c572e3a,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gle6589d1bb,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gle7fc79cd5,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202glec0316553,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gleeeb6be84,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202glef7ac134b,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gqr0fc65d4b,Montana,2026 Montana,False,True,unclear,,,,
+us-202gqr10c806ef,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gqr63b7a4d3,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202gqr6f3c3766,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202gqrcac76706,Montana,2026 Montana,False,True,unclear,,,,
+us-202gqre6dc037c,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202gra4551bd46,Arkansas,2026 Arkansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202gra7bd23a76,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202gracbfdd9ed,Arkansas,2026 Arkansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202grada8105a7,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202grae15a8aed,Arkansas,2026 Arkansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202gui7fa4251f,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202guic8eacfa2,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202har1cef6d8a,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202har44ddb49c,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202har82b4bcdc,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202har90f566f4,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202harb00382e0,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202harca09238f,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202harfc1499b8,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202harfe4afc0e,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202hen5c2d9c7e,Arkansas,2026 Arkansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202hig0453aa0e,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202hig5d2fb253,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202higae3d1182,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202higf04011a1,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202imp28c38a71,Mississippi,2026 Mississippi,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202imp50137db2,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins4236730d,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202ins51d307b7,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins62d5470c,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins632539b6,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202ins635442db,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins63791cfb,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins6e5f29f2,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins750c2821,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins890b679a,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ins8df69531,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202ins9dcc36f4,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202insad41796a,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202insbbb32dd3,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202inscc9ea016,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202inscfc77987,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202insea9816ae,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202insf80352ad,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202insfe93ffed,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202j.le2159a92,Arkansas,2026 Arkansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202mai1c9d66fd,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mai395fc865,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mar3b19e64d,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mar84640418,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mar9ee393ca,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202marad729239,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mas5785b9ea,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202mclfb3c3e69,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mdw67caa80b,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mdwe9967dcc,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mic57c88db3,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202micb55519f5,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202micf2fa67e0,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mit132a3ca8,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mit1e6a5692,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mit39173145,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mit52e22a51,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202mit7960c973,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202mit9a5c32a0,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202mitf3d55a81,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202nat3ed474bd,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202nat70f2036c,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202new4178c636,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202new8d3274bf,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202newc8f58efe,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202nex3971aa3a,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202onm04028dcb,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202opi5a64ca39,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202pan29dbf8a8,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202pan6f538bdb,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202pan8d235770,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202pol8bd7b267,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202pub121c904c,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202pub12c802d5,Illinois,2026 Illinois,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202pub206ed1c5,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202pub71f8e4aa,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202pub7b10b462,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202pub96a42a3f,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202puba68fce84,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202pubad41e9af,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202pubf36a581e,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202pubfd67a5f3,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202qua10b03a8f,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua1a64cfa3,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua2790f813,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua2b8ed3cb,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua38d03fbc,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua3b4e634a,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua525d8d11,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202qua5c07dc65,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua5e695b57,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua64c2cf49,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua6b878295,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202qua7812bd54,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202qua7f691cd6,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202qua8837472c,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202quad631010c,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202quad6aba264,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202quae590b629,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202quaee83ce98,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202rec22b1c62b,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202rec773da2d7,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202rec85c5cf76,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202recc152b3f7,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202red57ac6384,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202resa74e4477,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202resf47cceea,New Mexico,2026 New Mexico,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202sai47715591,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202sai55f1c7c2,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202saif937cd00,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202sli284b821d,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202sli394bd9a0,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202sli6204659f,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202sli9f75fb57,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202slidcb5236a,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202slizg1nv0m2,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202st.73c64f89,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202st.fc2e22ed,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ste008437cf,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ste198f7a4a,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202ste67ef4e2d,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202suf59500e62,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202suf710febda,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202sufc2449e1f,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202sur47670306,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202sur47b76c1c,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202sur63027f3e,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202sura38c6933,Minnesota,2026 Minnesota,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202surae0ec3b2,New Mexico,2026 New Mexico,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202surbc39cb26,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202surbcf9e1be,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202surc3904145,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tar0bbd9d56,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tarbd5d9c4c,South Carolina,2026 South Carolina,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202tav16c902e1,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tav1d399417,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tav22537272,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tav2313c4bf,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tav507e89fe,Montana,2026 Montana,False,True,unclear,,,,
+us-202tav5960dbe5,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202tav5bb1680a,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202tav61219990,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tav65f6005d,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202tav83ffdf29,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202tav8cd1705b,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202tav913179a0,Montana,2026 Montana,False,True,unclear,,,,
+us-202tavbdc1a03d,Montana,2026 Montana,False,True,unclear,,,,
+us-202tavf29ef95a,Montana,2026 Montana,False,True,unclear,,,,
+us-202tex39cdaf4f,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202tex6938a787,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202texaca3925a,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202texc28cf835,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202texe500a6d5,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202texee0a6ae6,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202the0ed14b63,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202the23cfbe50,Virginia,2026 Virginia,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202the28c318b6,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the4473f715,Texas,2026 Texas Republican,False,True,primary_labelled,,,,
+us-202the44d55dc8,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the52e3337f,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the55816505,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the592aeef5,Virginia,2026 Virginia,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202the6b777566,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the7058640a,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202the7cccde56,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the85ab5fb4,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the9066d3a5,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202the9a68a494,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202theb6b894ea,Montana,2026 Montana,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202thec9ff409a,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thecc936039,Virginia,2026 Virginia,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202thecf4746de,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thed1db38e3,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thed5a5e7e5,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thee58243fb,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202thee5a838a4,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thee89c7bce,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thef5594fea,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thef799bd14,Alabama,2026 Alabama,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thef985be3e,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202thefac9ff9a,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tip3da9b019,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tip59dfdfa0,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tip99de5023,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202tra046dabbf,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202tra4f3f6f82,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202traa454dc67,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,4.0,clean 1D-1R
+us-202tul3d7459f6,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202tul3efe64f6,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni02a0a46f,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202uni06038789,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni0dc518c7,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni1250e038,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni187076c4,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni1ae0881e,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni278821c4,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni29292225,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202uni2c6a92aa,Rhode Island,2026 Rhode Island,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202uni2e797321,Rhode Island,2026 Rhode Island,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202uni38178073,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni43b7e03e,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202uni5040ddd3,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni51f1c418,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni56d3ce46,Rhode Island,2026 Rhode Island,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni57f2dfa4,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202uni63b326ca,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni64743a1f,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni7ffc2e9d,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni866e047f,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni89b3e322,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202uni979cabda,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni983e65a4,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202uni9eb73f4f,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202unia4c1a428,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unia65b1e02,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unib186ef52,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unib4f650e2,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unic67dc15d,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202unic788577e,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unic8d0412d,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202unid95802f4,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unidbfe449d,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unide9784b7,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unidf4870a3,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unie006e257,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unie1113a54,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unieba4dd24,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unif780f058,Florida,2026 Florida,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unif8cfec03,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202unif94885f7,Rhode Island,2026 Rhode Island,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202unif995f365,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202unifcec5d26,Massachusetts,2026 Massachusetts,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202upscf2886a6,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202vic8d59b32c,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202vicc346e151,Illinois,2026 Illinois Democratic,True,False,primary_labelled,,,,
+us-202vot936927b5,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,2.0,clean 1D-1R
+us-202vot954dd8b2,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202wed4dcf8c6b,Texas,2026 Texas,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202wed7f897488,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202weda6e4ad64,Mississippi,2026 Mississippi,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202wedb13225b0,Ohio,2026 Ohio,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202wedd2e2b8b0,Kansas,2026 Kansas,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202wedfe4427b1,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202wic615cfb4b,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202wic6dd1649c,Georgia,2026 Georgia,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202yes4308b337,Alabama,2026 Alabama,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202yese8051e85,New Hampshire,2026 New Hampshire,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202you1e856ad2,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202you2133db87,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202you8b2f9799,Maine,2026 Maine,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202you9af4ba59,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202youa56ad1a9,Texas,2026 Texas Democratic,True,False,primary_labelled,,,,
+us-202youca5f07f2,North Carolina,2026 North Carolina,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202youe257a121,Iowa,2026 Iowa,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202z tb2a3f7be,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,1.0,clean 1D-1R
+us-202zen354a92cf,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202zena20bfa8f,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
+us-202zenec41aa86,Michigan,2026 Michigan,True,True,general_matchup,1.0,1.0,0.0,clean 1D-1R
