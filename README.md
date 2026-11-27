@@ -88,8 +88,6 @@ One election, 12 to 16 states with correlated errors; provisional vote counts; e
 
 ## Licence and citation
 
-- Code: [MIT](LICENSE) (add a `LICENSE` file; see GitHub's "Add file > Create new file > LICENSE" template picker).
-- Data: under the original providers' terms, as above.
 - Please cite as: *Steeve Solomon. Polls & Prediction Markets: the 2026 US Senate elections.*
 
 ## Contact
