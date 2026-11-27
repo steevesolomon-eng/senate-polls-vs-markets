@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steevesolomon-eng/senate-polls-vs-markets/blob/main/senate_project.ipynb)
 
-Code and data for an observational study comparing published polling averages with Polymarket prices across the 2026 US Senate elections. The full write-up is in the accompanying paper, *Polls & Prediction Markets* ([link to paper: ADD]).
+Code and data for an observational study comparing published polling averages with Polymarket prices across the 2026 US Senate elections. The full write-up is in the accompanying paper, *Polls & Prediction Markets* 
 
 The study asks five questions:
 
@@ -47,6 +47,7 @@ Notes:
 - If `deepsyte_candidates_2026.csv` is missing, the notebook downloads it from DeepSyte's open-data page (used for party labels only).
 - A Colab Secret named `GOV_DATA_API_KEY` is needed only if the FEC cache file is missing. It is included here, so you normally will not need it.
 - Anything written during a run lives in that Colab session and disappears when it disconnects; download what you want to keep.
+- To re-pull FEC data you need your own free key from api.data.gov, stored as a Colab Secret named `GOV_DATA_API_KEY`
 
 ## What is in this repository
 
@@ -89,8 +90,8 @@ One election, 12 to 16 states with correlated errors; provisional vote counts; e
 
 - Code: [MIT](LICENSE) (add a `LICENSE` file; see GitHub's "Add file > Create new file > LICENSE" template picker).
 - Data: under the original providers' terms, as above.
-- Please cite as: *[Your name] (2026). Polls & Prediction Markets: the 2026 US Senate elections. [link to paper: ADD].*
+- Please cite as: *Steeve Solomon. Polls & Prediction Markets: the 2026 US Senate elections.*
 
 ## Contact
 
-[Your name / email or GitHub issues]
+Steeve Solomon/stevejr162@gmail.com
